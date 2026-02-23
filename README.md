@@ -1,2 +1,3 @@
 # Flight-Controller
-Flight controller for a drone
+Flight controller for an aeral device 
+
