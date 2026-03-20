@@ -9,3 +9,22 @@ This flight controller was specifically made to be compatible with Mission plann
 
 This is one of my finest creation. All my previous versions were on breadboard.
 
+### Reason for its creation
+
+I created this flight controller to have a try and fulfill my childhood dream of trying out a FPV drone. I have always felt that it was one of the coolest things and wanted to try it out since i was 10.
+
+### How to use 
+
+This model is a part of a larger drone model I will make in the future and it will be powered using BEC protocol from the ESC of the motors of the drone.
+
+### BOM
+- LMR51430
+- Magnetometer ---> LIS3MDLTR
+- Microcontroller ---> STM32H743VIT6_C114409
+- Barometer ---> BMP580
+- USB-C ---> TYPE-C 16PIN 2MD(073)
+- IMU ---> ICM-45686
+- GPS --->  MAX-M10S 
+- Antenna ---> SMA-KWE902
+- Battery charger ---> BQ25756RRVR
+
